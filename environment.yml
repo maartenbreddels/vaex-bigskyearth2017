@@ -1,0 +1,8 @@
+nameme: vaex-bigskyearth
+channels:
+ - conda-forge
+dependencies:
+ - vaex
+ - ipyvolume
+ - scipy
+ - ipywidgets>=6.0.0
